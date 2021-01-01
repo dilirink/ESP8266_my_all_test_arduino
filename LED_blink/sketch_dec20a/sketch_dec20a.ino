@@ -1,5 +1,5 @@
 #define LED_BLU D5 // Led in NodeMCU at pin GPIO16 (D0).
-#define LED_RED D6
+#define LED_RED D0
 #define LED_GRE D7
 void setup() {
 pinMode(LED_BLU, OUTPUT); // set the digital pin as output.
